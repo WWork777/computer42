@@ -38,7 +38,7 @@ const footerData = {
   },
   contactDetails: {
     name: "Контакты",
-    address: "Кемерово, Орджоникидзе 4 (площадь Пушкина)",
+    address: "г. Кемерово",
     email: "evgeny-nikitin03102003@mail.ru",
     phone: "+79505940280",
   },
