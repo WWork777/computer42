@@ -62,10 +62,16 @@ function HeroSection() {
               <div className="flex flex-col items-center justify-center gap-8 w-full sm:flex-row">
                 {/* ----------- Get started Link -------------- */}
                 <Link
+<<<<<<< HEAD
                   href="https://api.whatsapp.com/send/?phone=79505940280&text=Здравствуйте%21+Пишу+с+сайта+computer42%2C+хочу+обратиться+по+поводу...&type=phone_number&app_absent=0"
                   className="group bg-purple_blue text-white font-medium flex flex-row justify-between items-center py-2 px-5 rounded-full max-w-64 w-full md:py-3 border border-purple_blue transition-all duration-200 ease-in-out hover:bg-transparent hover:text-purple_blue"
                 >
                   <span className="flex text-start transform transition-transform duration-200 ease-in-out group-hover:translate-x-28">
+=======
+                  href='https://t.me/nev_3d'
+                  className='group bg-purple_blue text-white font-medium flex flex-row justify-between items-center py-2 px-5 rounded-full max-w-64 w-full md:py-3 border border-purple_blue transition-all duration-200 ease-in-out hover:bg-transparent hover:text-purple_blue'>
+                  <span className='flex text-start transform transition-transform duration-200 ease-in-out group-hover:translate-x-28'>
+>>>>>>> 5bd4f5e (upd)
                     Связаться
                   </span>
                   <svg

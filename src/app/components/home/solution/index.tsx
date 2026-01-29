@@ -38,10 +38,16 @@ function Solutions() {
                 </p>
               </div>
               <Link
+<<<<<<< HEAD
                 href="https://api.whatsapp.com/send/?phone=79505940280&text=Здравствуйте%21+Пишу+с+сайта+computer42%2C+хочу+обратиться+по+поводу...&type=phone_number&app_absent=0"
                 className="group w-fit text-white font-medium bg-dark_black rounded-full flex items-center gap-4 py-2 pl-5 pr-2 hover:bg-transparent border border-dark_black"
               >
                 <span className="group-hover:translate-x-9 group-hover:text-dark_black transform transition-transform duration-200 ease-in-out">
+=======
+                href='https://t.me/nev_3d'
+                className='group w-fit text-white font-medium bg-dark_black rounded-full flex items-center gap-4 py-2 pl-5 pr-2 hover:bg-transparent border border-dark_black'>
+                <span className='group-hover:translate-x-9 group-hover:text-dark_black transform transition-transform duration-200 ease-in-out'>
+>>>>>>> 5bd4f5e (upd)
                   Связаться
                 </span>
                 <svg
